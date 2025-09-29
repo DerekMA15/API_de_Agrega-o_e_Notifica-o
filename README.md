@@ -1,5 +1,6 @@
 # API de Notificação
 - **A ideia:** Desenvolva um backend que consome dados de várias APIs de terceiros (por exemplo, notícias de tecnologia do `Hacker News`, vídeos novos de canais do YouTube, ou cotações de criptomoedas). O usuário poderia se cadastrar no seu sistema, escolher os tópicos de interesse e receber um "resumo" diário ou semanal por e-mail com as novidades.
+- Padronização de commit: https://github.com/iuricode/padroes-de-commits
     
 - **O que você vamos aprender:**
     
